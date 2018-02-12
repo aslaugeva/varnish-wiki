@@ -32,7 +32,7 @@ we recommend you use Ubuntu LTS 16.04 (Xenial) as the OS as well as:
 Copyright
 ~~~~~~~~
 
-* © 2016-2017, Varnish Software Group
+* © 2018, Varnish Software Group
 
 Authors
 ~~~~~~~
